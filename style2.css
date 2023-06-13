@@ -1,0 +1,33 @@
+/* @media (max-width: 953px) {
+    .team-box{
+        width: 19rem;
+    }
+}
+
+@media (max-width: 930px) {
+    .team-box{
+        background: green;
+        width: 30rem;
+    }
+} */
+
+@media (max-width: 1000px) {
+    .contact .form{
+        padding: 3rem 2rem;
+    }
+}
+
+@media (max-width: 900px) {
+    .hero{
+        margin-top: 5rem;
+    }
+
+    .about, .services{
+        margin: 1rem 0;
+        padding: 3rem 0;
+    }
+
+    .hero-text{
+        text-align: center;
+    }
+}
